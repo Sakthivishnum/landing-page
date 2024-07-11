@@ -1,0 +1,54 @@
+body{
+    margin:0px;
+    padding: 0px;
+}
+.head{
+    text-align: center;
+    background-color:black;
+    color:white;
+    
+}
+.head a{
+    color:orange;
+}
+p
+    {
+        margin: 0px;
+    }
+    
+    .carousel-control-prev-icon{
+        color: seashell;
+        background-color: rgb(177, 175, 175);
+    }
+.carousel-control-next-icon{
+    color: seashell;
+        background-color: rgb(177, 175, 175);
+}
+.index{
+    position: absolute;
+    z-index: 1;
+    margin: 100px 1000px 100px 100px;
+}
+.index h2{
+    color:orange;
+    font-family:fantasy;
+    text-align: center;
+}
+.index h3{
+    font-weight: 1000;
+    text-align: center;
+}
+.index p{
+    text-align: center;
+}
+.index button{
+    margin: 20px 140px;
+    background-color: black;
+    color: white;
+}
+.row{
+    margin:10px 150px;
+}
+.row img{
+    padding: 0px 10px;
+}
